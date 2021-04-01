@@ -13,7 +13,7 @@ public class HelloController {
         return "Hello Madan Kumar this is being deployed using Elastic Bean stack";
     }
     @GetMapping("/he")
-    public String hello() {
+    public String th() {
         return "Thank you Madan Kumar Sir";
     }
 }
